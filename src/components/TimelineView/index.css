@@ -1,0 +1,25 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #171f46;
+}
+.ccbp {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #2b237c;
+}
+.chrono-container {
+  width: 600px;
+  height: 800px;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+}
